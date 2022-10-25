@@ -29,3 +29,4 @@ images using edge detection. The output is then predicted
 after the classification occurs. 
 <br />![flowchart](https://user-images.githubusercontent.com/115657319/197708659-eda3c4d9-4661-4ab2-bf6d-97973b4045eb.png)
 <br />IV. ARCHITECTURE OF CNN
+<br />![Slide1](https://user-images.githubusercontent.com/115657319/197709059-fed1cda0-4cbb-4204-a59c-755d613e6958.JPG)
