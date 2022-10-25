@@ -35,7 +35,7 @@ after the classification occurs.
 <br />![summary of cnn](https://user-images.githubusercontent.com/115657319/197709587-c6c6301b-d5df-4acd-b4bc-21d85b4bfecc.jpg)
 <br />Fig.3. Summary of CNN
 <br />V. RESULTS AND DISCUSSION
-The difference between the two graphs is as shown below:
+<br />The difference between the two graphs is as shown below:
 Fig. 4. Without Edge Detection
 Fig. 5. With Edge Detection
 Fig 4. Shows a graph without edge detection and Fig 5.
@@ -59,7 +59,7 @@ of the image with edge detection is 92.13 percent. Therefore,
 this justifies that image processing is more accurate
 comparatively.
 <br />VI. CONCLUSION
-When the image is preprocessed, the CNN can classify better
+<br />When the image is preprocessed, the CNN can classify better
 when compared to the unprocessed image. Therefore, helps
 in achieving better results. Object Detection is an emerging
 technology in the field of Computer Vision and Image
