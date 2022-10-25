@@ -1,6 +1,6 @@
 # joint-bolt-understanding-with-Edge-detection
 This is a study to show that methodology developed for better edge detection via CNN shows better result than without data preprocessing
-Abstract—The paper aims to identify the kind of joints and 
+<br />Abstract—The paper aims to identify the kind of joints and 
 bolts in the most efficient way possible. A comparative study has 
 been performed with and without edge detection where a 
 convolution neural network (CNN) is used for classification of 
