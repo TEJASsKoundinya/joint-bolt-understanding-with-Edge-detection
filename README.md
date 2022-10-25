@@ -10,7 +10,7 @@ applied edge detection into it. This is a part of image preprocessing which is 
 these two operations. Therefore, these classifications between 
 the two neural networks are compared to find the best suited 
 methodology for better results.
-III. METHODOLOGY
+<br />III. METHODOLOGY
 The image of the structural joints in the PNG format is the 
 primary input to the setup. PNG files are used to improve the 
 resolution of the image thereby, preserving every pixel of 
