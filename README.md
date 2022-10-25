@@ -36,8 +36,10 @@ after the classification occurs.
 <br />Fig.3. Summary of CNN
 <br />V. RESULTS AND DISCUSSION
 <br />The difference between the two graphs is as shown below:
-Fig. 4. Without Edge Detection
-Fig. 5. With Edge Detection
+<br />![Fig 4](https://user-images.githubusercontent.com/115657319/197744009-2f351a22-27ac-448e-9827-4674532ddbb4.png)
+<br />Fig. 4. Without Edge Detection
+<br />![Fig 5](https://user-images.githubusercontent.com/115657319/197744143-4c51db23-afd3-42dd-887b-8e07a144e75f.png)
+<br />Fig. 5. With Edge Detection
 Fig 4. Shows a graph without edge detection and Fig 5.
 Shows a graph with edge detection. Without using the edge
 detection test the accuracy got is around 97, and the
