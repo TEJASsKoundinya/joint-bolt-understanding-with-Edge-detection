@@ -34,3 +34,48 @@ after the classification occurs.
 <br />Fig.2. Architecture of CNN
 <br />![summary of cnn](https://user-images.githubusercontent.com/115657319/197709587-c6c6301b-d5df-4acd-b4bc-21d85b4bfecc.jpg)
 <br />Fig.3. Summary of CNN
+<br />V. RESULTS AND DISCUSSION
+The difference between the two graphs is as shown below:
+Fig. 4. Without Edge Detection
+Fig. 5. With Edge Detection
+Fig 4. Shows a graph without edge detection and Fig 5.
+Shows a graph with edge detection. Without using the edge
+detection test the accuracy got is around 97, and the
+validation accuracy of around 75 whereas using edge
+detection the training loss factor got is 0.15 and the validation
+loss factor is 1.125. Using the edge detection method better
+results have been achieved compared to the results achieved
+without using edge detection. The model accuracy was found
+to be similar in three spots hence it stopped training at 15
+epochs. As the data is small of five different classes the
+domain area is increased and the reprocessed image reduces
+the complexity of the neural network.
+
+Fig. 6. Wing Bolt With and Without Edge Detection
+The above Fig. 6 shows an image of a wing bolt with and
+without edge detection. It is noted that the accuracy of the
+image without edge detection is around 56.21 percent and that
+of the image with edge detection is 92.13 percent. Therefore,
+this justifies that image processing is more accurate
+comparatively.
+<br />VI. CONCLUSION
+When the image is preprocessed, the CNN can classify better
+when compared to the unprocessed image. Therefore, helps
+in achieving better results. Object Detection is an emerging
+technology in the field of Computer Vision and Image
+Processing that deals with detecting objects of a particular
+class in digital images. It has considered being one of the
+most complicated and challenging tasks in computer vision.
+Earlier several machine learning-based approaches like SIFT
+(Scale-invariant feature transform) and HOG (Histogram of
+oriented gradients) are widely used to classify objects in an
+image. These approaches use the Support vector machine for
+classification. The biggest challenges with these approaches
+are that they are computationally intensive for use in realtime applications, and these methods do not work well with
+massive datasets. To overcome these challenges, we
+implemented a Deep Learning-based approach to
+Convolutional Neural Networks (CNN) in this paper. The
+Proposed approach provides accurate results in detecting
+objects with a decent accuracy level. Hence, this paper
+concludes that the accuracy of images with image processing
+is higher and better than the latter.
