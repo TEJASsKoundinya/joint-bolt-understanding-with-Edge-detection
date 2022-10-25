@@ -31,3 +31,5 @@ after the classification occurs.
 <br />IV. ARCHITECTURE OF CNN
 <br />![Slide1](https://user-images.githubusercontent.com/115657319/197709059-fed1cda0-4cbb-4204-a59c-755d613e6958.JPG)
 <br />Fig.2. Architecture of CNN
+<br />![summary of cnn](https://user-images.githubusercontent.com/115657319/197709587-c6c6301b-d5df-4acd-b4bc-21d85b4bfecc.jpg)
+<br />Fig.3. Summary of CNN
