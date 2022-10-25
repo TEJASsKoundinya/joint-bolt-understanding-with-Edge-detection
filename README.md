@@ -11,6 +11,7 @@ applied edge detection into it. This is a part of image preprocessing which is c
 these two operations. Therefore, these classifications between 
 the two neural networks are compared to find the best suited 
 methodology for better results.
+
 <br />III. METHODOLOGY
 <br />The image of the structural joints in the PNG format is the 
 primary input to the setup. PNG files are used to improve the 
@@ -30,17 +31,22 @@ images using edge detection. The output is then predicted
 after the classification occurs. 
 <br />![Flowchart](https://user-images.githubusercontent.com/115657319/197710059-23ba2659-06a2-4acb-863e-79b11b4f7aee.png)
 <br />Fig.1. Operational flowchart of methodology
+
 <br />IV. ARCHITECTURE OF CNN
 <br />![Slide1](https://user-images.githubusercontent.com/115657319/197709059-fed1cda0-4cbb-4204-a59c-755d613e6958.JPG)
 <br />Fig.2. Architecture of CNN
+
 <br />![summary of cnn](https://user-images.githubusercontent.com/115657319/197709587-c6c6301b-d5df-4acd-b4bc-21d85b4bfecc.jpg)
 <br />Fig.3. Summary of CNN
+
 <br />V. RESULTS AND DISCUSSION
 <br />The difference between the two graphs is as shown below:
 <br />![Fig 4](https://user-images.githubusercontent.com/115657319/197744009-2f351a22-27ac-448e-9827-4674532ddbb4.png)
 <br />Fig. 4. Without Edge Detection
+
 <br />![Fig 5](https://user-images.githubusercontent.com/115657319/197744143-4c51db23-afd3-42dd-887b-8e07a144e75f.png)
 <br />Fig. 5. With Edge Detection
+
 <br />Fig 4. Shows a graph without edge detection and Fig 5.
 Shows a graph with edge detection. Without using the edge
 detection test the accuracy got is around 97, and the
@@ -61,6 +67,7 @@ image without edge detection is around 56.21 percent and that
 of the image with edge detection is 92.13 percent. Therefore,
 this justifies that image processing is more accurate
 comparatively.
+
 <br />VI. CONCLUSION
 <br />When the image is preprocessed, the CNN can classify better
 when compared to the unprocessed image. Therefore, helps
