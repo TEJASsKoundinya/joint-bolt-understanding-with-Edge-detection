@@ -59,9 +59,10 @@ to be similar in three spots hence it stopped training at 15
 epochs. As the data is small of five different classes the
 domain area is increased and the reprocessed image reduces
 the complexity of the neural network.
+<br />![Fig 6](https://user-images.githubusercontent.com/115657319/197745418-d28b52b5-e0d0-4eea-8b29-c0fbb6f615d0.png)
+<br />Fig. 6. Wing Bolt With and Without Edge Detection
 
-Fig. 6. Wing Bolt With and Without Edge Detection
-The above Fig. 6 shows an image of a wing bolt with and
+<br />The above Fig. 6 shows an image of a wing bolt with and
 without edge detection. It is noted that the accuracy of the
 image without edge detection is around 56.21 percent and that
 of the image with edge detection is 92.13 percent. Therefore,
