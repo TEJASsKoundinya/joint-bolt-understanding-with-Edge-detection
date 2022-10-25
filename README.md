@@ -27,3 +27,4 @@ images of the data are color images and are cropped to 180 ×
 180 for uniformity in the input. The CNN classifies the 
 images using edge detection. The output is then predicted
 after the classification occurs. 
+<br />![flowchart](https://user-images.githubusercontent.com/115657319/197708659-eda3c4d9-4661-4ab2-bf6d-97973b4045eb.png)
