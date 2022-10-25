@@ -40,7 +40,7 @@ after the classification occurs.
 <br />Fig. 4. Without Edge Detection
 <br />![Fig 5](https://user-images.githubusercontent.com/115657319/197744143-4c51db23-afd3-42dd-887b-8e07a144e75f.png)
 <br />Fig. 5. With Edge Detection
-Fig 4. Shows a graph without edge detection and Fig 5.
+<br />Fig 4. Shows a graph without edge detection and Fig 5.
 Shows a graph with edge detection. Without using the edge
 detection test the accuracy got is around 97, and the
 validation accuracy of around 75 whereas using edge
