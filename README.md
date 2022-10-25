@@ -6,12 +6,12 @@ been performed with and without edge detection where a
 convolution neural network (CNN) is used for classification of 
 different joints and bolts present in an image. The image is 
 provided as an input and is converted to grayscale format later 
-applied edge detection into it. This is a part of image preprocessing which is compared with an image without any preprocessing techniques and where the result is compared between 
+applied edge detection into it. This is a part of image preprocessing which is compared with an image without any preprocessing techniques and where the result is compared between 
 these two operations. Therefore, these classifications between 
 the two neural networks are compared to find the best suited 
 methodology for better results.
 <br />III. METHODOLOGY
-The image of the structural joints in the PNG format is the 
+<br />The image of the structural joints in the PNG format is the 
 primary input to the setup. PNG files are used to improve the 
 resolution of the image thereby, preserving every pixel of 
 color within an image and increasing the quality. The input 
